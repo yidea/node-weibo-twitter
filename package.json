@@ -1,6 +1,6 @@
 {
   "name": "node-weibo-twitter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Npm module for tweet and weibo",
   "main": "index.js",
   "repository": {
@@ -20,16 +20,11 @@
   "homepage": "https://github.com/yidea/node-weibo-twitter",
   "licenses": [
     {
-      "type" : "MIT",
-      "url" : "http://github.com/yun77op/weibo-oauth2/raw/master/LICENSE"
+      "type" : "MIT"
     }
   ],
   "dependencies":{
     "oauth":"0.9.8"
-  },
-  "devDependencies":{
-    "mocha":">=0.7.0",
-    "should":">=0.4.2"
   },
   "engines": [
     "node >= 0.8.0"

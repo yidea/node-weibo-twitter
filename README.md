@@ -62,8 +62,8 @@ Twitter
  
 ## How to get Weibo access_token
 
-- API Doc
-http://open.weibo.com/wiki/%E6%8E%88%E6%9D%83%E6%9C%BA%E5%88%B6%E8%AF%B4%E6%98%8E
+- Weibo API Doc
+http://open.weibo.com/wiki/%E5%BE%AE%E5%8D%9AAPI
 - Get Authorize Code, set redirect url to http://127.0.0.1
 https://api.weibo.com/oauth2/authorize?client_id=YOUR_CLIENT_ID&response_type=code&redirect_uri=YOUR_REGISTERED_REDIRECT_URI
 - Get Access Token (Use POSTMAN w post method, not support browser access)
